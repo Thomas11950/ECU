@@ -1,2 +1,4 @@
 Record=TopLevelDocument|FileName=ECU.SchDoc|SheetNumber=1
-Record=NoMainPathDocument|SourceDocument=ECU.SchDoc|FileName=Sheet2.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=ECU.SchDoc|FileName=ECU_ADC.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=ECU.SchDoc|FileName=ECU_Interface.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=ECU.SchDoc|FileName=ECU_Power.SchDoc|SheetNumber=2
