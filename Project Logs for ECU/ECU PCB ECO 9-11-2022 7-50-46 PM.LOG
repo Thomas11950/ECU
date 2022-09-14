@@ -1,0 +1,7 @@
+Change Component Footprint: Designator=Q1 Old Footprint=MSOP-8_MS New Footprint=D0008A-IPC_A
+Change Component Footprint: Designator=Q2 Old Footprint=MSOP-8_MS New Footprint=D0008A-IPC_A
+Change Component Footprint: Designator=Q3 Old Footprint=MSOP-8_MS New Footprint=D0008A-IPC_A
+Change Component Designator: OldDesignator=U NewDesignator=U11
+Added Room: Name=ECU_ADC
+Added Room: Name=ECU_Interface
+Added Room: Name=ECU_Power

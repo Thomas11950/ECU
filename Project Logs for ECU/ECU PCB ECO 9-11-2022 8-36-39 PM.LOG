@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=+12RAW Pin=C9-1
+Added Pin To Net: NetName=OUTSMARTDIODE Pin=C9-1
+Added Room: Name=ECU_ADC
+Added Room: Name=ECU_Interface
+Added Room: Name=ECU_Power

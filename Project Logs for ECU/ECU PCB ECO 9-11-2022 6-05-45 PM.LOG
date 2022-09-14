@@ -1,0 +1,12 @@
+Added Pin To Net: NetName=NetJ4_0-ADC_SS Pin=J4-0-ADC_SS
+Added Pin To Net: NetName=NetJ4_0-ADC_SS Pin=U10-20
+Added Net: Name=NetJ4_0-ADC_SS
+Added Pin To Net: NetName=NetJ4_1-ADC_MISO Pin=J4-1-ADC_MISO
+Added Pin To Net: NetName=NetJ4_1-ADC_MISO Pin=U10-23
+Added Net: Name=NetJ4_1-ADC_MISO
+Added Pin To Net: NetName=NetJ4_26-ADC_MOSI Pin=J4-26-ADC_MOSI
+Added Pin To Net: NetName=NetJ4_26-ADC_MOSI Pin=U10-22
+Added Net: Name=NetJ4_26-ADC_MOSI
+Added Pin To Net: NetName=NetJ4_27-ADC_CLK Pin=J4-27-ADC_CLK
+Added Pin To Net: NetName=NetJ4_27-ADC_CLK Pin=U10-21
+Added Net: Name=NetJ4_27-ADC_CLK

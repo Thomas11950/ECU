@@ -1,0 +1,9 @@
+Added Component: Designator=L1(IND_BOURNS_SDR1806)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2022 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SDR1806-2R2ML"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Bourns Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=SW Pin=L1-1
+Added Pin To Net: NetName=+6 Pin=L1-2
+Added Member To Class: ClassName=ECU_Power Member=Component L1 SDR1806-2R2ML

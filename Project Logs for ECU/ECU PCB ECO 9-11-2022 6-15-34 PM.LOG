@@ -1,0 +1,66 @@
+Added Component: Designator=J1(TE_1-284391-2)
+Add component (AddParameter): Name = "Arrow_Electronics-Purchase-URL"; Value = "https://snapeda.com/shop?store=Arrow+Electronics&id=2875340"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Availability"; Value = "Good"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DigiKey-Purchase-URL"; Value = "https://snapeda.com/shop?store=DigiKey&id=2875340"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser-Purchase-URL"; Value = "https://snapeda.com/shop?store=Mouser&id=2875340"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "1-284391-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/1-284391-2/TE%20Connectivity%20AMP%20Connectors/view-part/2875340/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J2(TE_1-284391-2)
+Add component (AddParameter): Name = "Arrow_Electronics-Purchase-URL"; Value = "https://snapeda.com/shop?store=Arrow+Electronics&id=2875340"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Availability"; Value = "Good"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DigiKey-Purchase-URL"; Value = "https://snapeda.com/shop?store=DigiKey&id=2875340"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser-Purchase-URL"; Value = "https://snapeda.com/shop?store=Mouser&id=2875340"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "1-284391-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/1-284391-2/TE%20Connectivity%20AMP%20Connectors/view-part/2875340/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J3(TE_1-284391-2)
+Add component (AddParameter): Name = "Arrow_Electronics-Purchase-URL"; Value = "https://snapeda.com/shop?store=Arrow+Electronics&id=2875340"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Availability"; Value = "Good"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DigiKey-Purchase-URL"; Value = "https://snapeda.com/shop?store=DigiKey&id=2875340"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser-Purchase-URL"; Value = "https://snapeda.com/shop?store=Mouser&id=2875340"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "1-284391-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/1-284391-2/TE%20Connectivity%20AMP%20Connectors/view-part/2875340/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetJ1_1 Pin=J1-1
+Added Pin To Net: NetName=NetJ1_2 Pin=J1-2
+Added Pin To Net: NetName=NetJ1_3 Pin=J1-3
+Added Pin To Net: NetName=NetJ1_4 Pin=J1-4
+Added Pin To Net: NetName=NetJ1_5 Pin=J1-5
+Added Pin To Net: NetName=NetJ1_6 Pin=J1-6
+Added Pin To Net: NetName=NetJ1_7 Pin=J1-7
+Added Pin To Net: NetName=NetJ1_8 Pin=J1-8
+Added Pin To Net: NetName=NetJ1_9 Pin=J1-9
+Added Pin To Net: NetName=NetJ1_10 Pin=J1-10
+Added Pin To Net: NetName=INJ Pin=J1-11
+Added Pin To Net: NetName=17 Pin=J1-12
+Added Pin To Net: NetName=18 Pin=J2-1
+Added Pin To Net: NetName=19 Pin=J2-2
+Added Pin To Net: NetName=2 Pin=J2-3
+Added Pin To Net: NetName=3 Pin=J2-4
+Added Pin To Net: NetName=4 Pin=J2-5
+Added Pin To Net: NetName=5 Pin=J2-6
+Added Pin To Net: NetName=7_UART-RX Pin=J2-7
+Added Pin To Net: NetName=8_UART-TX Pin=J2-8
+Added Pin To Net: NetName=10 Pin=J2-9
+Added Pin To Net: NetName=11 Pin=J2-10
+Added Pin To Net: NetName=12 Pin=J2-11
+Added Pin To Net: NetName=24 Pin=J2-12
+Added Pin To Net: NetName=25 Pin=J3-1
+Added Pin To Net: NetName=14 Pin=J3-2
+Added Pin To Net: NetName=13 Pin=J3-3
+Added Pin To Net: NetName=33 Pin=J3-4
+Added Pin To Net: NetName=36 Pin=J3-5
+Added Pin To Net: NetName=37 Pin=J3-6
+Added Member To Class: ClassName=ECU_Interface Member=Component J1 1-284391-2
+Added Member To Class: ClassName=ECU_Interface Member=Component J2 1-284391-2
+Added Member To Class: ClassName=ECU_Interface Member=Component J3 1-284391-2

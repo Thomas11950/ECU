@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=GND Pin=C15-1
+Removed Pin From Net: NetName=GND Pin=U10-18
+Added Pin To Net: NetName=AGND Pin=C15-1
+Added Pin To Net: NetName=AGND Pin=U10-18
+Added Room: Name=ECU_ADC
+Added Room: Name=ECU_Interface
+Added Room: Name=ECU_Power
